@@ -18,7 +18,7 @@ fun HomeScreen(
     modifier: Modifier = Modifier,
     viewModel: HomeViewModel = getViewModel<HomeViewModel>()
 ) {
-    val uiState: UiState<List<Category>> = viewModel.uiState.collectAsState().value.categoriesUiState
+    val uiState: UiState<List<Category>> = viewModel.uiState.collectAsState ().value.categoriesUiState
     Box(
         modifier = modifier
     ) {
