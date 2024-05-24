@@ -1,3 +1,178 @@
 <resources>
     <string name="app_name">Elegance</string>
+
+    <!-- Common -->
+    <string name="dollar">$</string>
+    <string name="xs">XS</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="xl">XL</string>
+    <string name="xxl">XXL</string>
+
+    <!-- Login Screen -->
+    <string name="login_screen_title">Log In</string>
+    <string name="login_screen_email_label">Email</string>
+    <string name="login_screen_email_hint">Enter your email address</string>
+    <string name="login_screen_password_label">Password</string>
+    <string name="login_screen_password_hint">Enter your password</string>
+    <string name="login_screen_forgot_password">Forgot Password?</string>
+    <string name="login_screen_button">Log In</string>
+    <string name="login_screen_or">OR</string>
+    <string name="login_screen_continue_with_google">Continue With Google</string>
+    <string name="login_screen_continue_with_facebook">Continue With Facebook</string>
+    <string name="login_screen_no_account">Don\'t have an account?</string>
+    <string name="login_screen_sign_up">Sign Up</string>
+    
+    <!-- Register Screen -->
+    <string name="register_screen_title">Sign Up</string>
+    <string name="register_screen_name_label">Name</string>
+    <string name="register_screen_email_label">Email</string>
+    <string name="register_screen_email_hint">Enter your email address</string>
+    <string name="register_screen_phone_label">Phone Number</string>
+    <string name="register_screen_password_label">Password</string>
+    <string name="register_screen_password_hint">Enter your password</string>
+    <string name="register_screen_confirm_password_label">Confirm Password</string>
+    <string name="register_screen_button">Sign Up</string>
+    <string name="register_screen_have_account">Already have an account?</string>
+    <string name="register_screen_login">Log in</string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_password_screen_title">Reset Password</string>
+    <string name="reset_password_screen_label">Email / Phone Number</string>
+    <string name="reset_password_screen_hint">Enter your email / phone Number</string>
+    <string name="reset_password_screen_next">Next</string>
+
+    <!-- Verification OTP -->
+    <string name="verification_otp_title">Verification OTP</string>
+    <string name="verification_otp_label">A code has been sent to your phone</string>
+    <string name="verification_otp_button">Continue</string>
+
+    <!-- Create New Password Screen -->
+    <string name="create_new_password_screen_title">Create New Password</string>
+    <string name="create_new_password_screen_password_label">Password</string>
+    <string name="create_new_password_screen_password_hint">Enter your password</string>
+    <string name="create_new_password_screen_confirm_password_label">Confirm Password</string>
+    <string name="create_new_password_screen_button">Reset Password</string>
+
+    <!-- Home Screen -->
+    <string name="home_screen_best_offers">Best Offers</string>
+    <string name="home_screen_new_arrival">New Arrival</string>
+    <string name="home_screen_recommended_for_you">Recommended For You</string>
+    <string name="home_screen_view_all">View All</string>
+
+    <!-- Categories Screen -->
+    <string name="categories_screen_title">Category</string>
+
+    <!-- Details Screen -->
+    <string name="details_screen_title">Details</string>
+    <string name="details_screen_reviews">Reviews</string>
+    <string name="details_screen_products_you_may_like">Products You May Like</string>
+    <string name="details_screen_add_to_cart">Add To Cart</string>
+    
+    <!-- Search Screen -->
+    <string name="search_screen_title">Search</string>
+    <string name="search_screen_history">Search History</string>
+
+    <!-- Filter Screen -->
+    <string name="filter_screen_title">Filter</string>
+    <string name="filter_screen_sale">Sale</string>
+    <string name="filter_screen_trending">Trending</string>
+    <string name="filter_screen_new">New</string>
+    <string name="filter_screen_category">Category</string>
+    <string name="filter_screen_color">Color</string>
+    <string name="filter_screen_size">Size</string>
+    <string name="filter_screen_rating">Rating</string>
+    <string name="filter_screen_price">Price</string>
+    
+    <!-- Notifications Screen -->
+    <string name="notifications_screen_title">Notifications</string>
+    <string name="notifications_screen_today">Today</string>
+    <string name="notifications_screen_yesterday">Yesterday</string>
+    
+    <!-- Cart Screen -->
+    <string name="cart_screen_title">Cart</string>
+    <string name="cart_screen_color">Color</string>
+    <string name="cart_screen_promo_code">Promo Code</string>
+    <string name="cart_screen_subtotal">Subtotal</string>
+    <string name="cart_screen_discount">Discount</string>
+    <string name="cart_screen_delivery">Delivery</string>
+    <string name="cart_screen_total">Total</string>
+    <string name="cart_screen_check_out">Check Out</string>
+    
+    <!-- Shipping Details Screen -->
+    <string name="shipping_details_screen">Shipping Details</string>
+    <string name="shipping_details_name_label">Name</string>
+    <string name="shipping_details_phone_label">Phone Number</string>
+    <string name="shipping_details_country_label">Country</string>
+    <string name="shipping_details_city_label">City</string>
+    <string name="shipping_details_address_label">Address</string>
+    <string name="shipping_details_save_the_address">Save the address in your account</string>
+    <string name="shipping_details_continue_button">Continue</string>
+    
+    <!-- Payment Screen -->
+    <string name="payment_screen_title">Payment</string>
+    <string name="payment_screen_card_number_label">Card Number</string>
+    <string name="payment_screen_exp_date_label">EXP Date</string>
+    <string name="payment_screen_cvv_code_label">CVV Code</string>
+    <string name="payment_screen_set_default">set as your default payment method</string>
+    <string name="payment_screen_pay_now_button">Pay Now</string>
+
+    <!-- Congratulations Screen -->
+    <string name="congratulations_screen_title">Congratulations !!</string>
+    <string name="congratulations_screen_success_paying">You have successfully paid for your order !!</string>
+    <string name="congratulations_screen_bill_payment">Bill Payment</string>
+    <string name="congratulations_screen_track_order_button">Track Order</string>
+    <string name="congratulations_screen_continue_shopping_button">Continue Shopping</string>
+    
+    <!-- Track Order Screen -->
+    <string name="track_order_screen_title">Track Order</string>
+    <string name="track_order_screen_best_offers">Best Offers</string>
+    <string name="track_order_screen_order_journey">Order Journey</string>
+    <string name="track_order_screen_order_information_received">Order Information Received</string>
+    <string name="track_order_screen_the_order_is_being_collected">The Order is being collected</string>
+    <string name="track_order_screen_ready_to_send">Ready To Send</string>
+    <string name="track_order_screen_the_order_is_on_the_way">The order is on the way</string>
+    <string name="track_order_screen_order_delivery">Order delivery</string>
+
+    <!-- Favourite Screen -->
+    <string name="favourite_screen_title">Favourite</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_screen_title">Profile</string>
+    <string name="profile_screen_payment_methods">Payment Methods</string>
+    <string name="profile_screen_orders">Orders</string>
+    <string name="profile_screen_address">Addresses</string>
+    <string name="profile_screen_notifications">Notifications</string>
+    <string name="profile_screen_language">Language</string>
+    <string name="profile_screen_log_out">Log Out</string>
+
+    <!-- Languages Screen -->
+    <string name="languages_screen_title">Language</string>
+    <string name="languages_screen_english">English</string>
+    <string name="languages_screen_arabic">Arabic</string>
+    <string name="languages_screen_spanish">Spanish</string>
+    <string name="languages_screen_france">France</string>
+    <string name="languages_screen_chinese">Chinese</string>
+
+    <!-- Payment Methods Screen -->
+    <string name="payment_methods_screen_title">Payment Methods</string>
+    <string name="payment_methods_screen_connected">Connected</string>
+    <string name="payment_methods_screen_not_connected">Not Connected</string>
+
+    <!-- Order History -->
+    <string name="order_history_title">Order History</string>
+    <string name="order_history_ongoing">Ongoing</string>
+    <string name="order_history_delivered">Delivered</string>
+    
+    <!-- Address Screen -->
+    <string name="address_screen_title">Address</string>
+    <string name="address_screen_new_address_button">New Address</string>
+
+    <!-- New Address Screen -->
+    <string name="new_address_screen_title">New Address</string>
+    <string name="new_address_screen_country_label">Country</string>
+    <string name="new_address_screen_city_label">City</string>
+    <string name="new_address_screen_address_label">Address</string>
+    <string name="new_address_screen_add_address_button">Add Address</string>
 </resources>
